@@ -10,7 +10,7 @@ mvn archetype:generate -DgroupId=sg.edu.nus.iss -DartifactId=sdfworkshop3 -Darch
 
 ```
 
-mvn clean complile
+mvn clean compile
 
 ```
 
